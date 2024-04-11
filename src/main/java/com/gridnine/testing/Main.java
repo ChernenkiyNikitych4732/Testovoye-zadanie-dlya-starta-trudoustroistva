@@ -15,7 +15,7 @@ public class Main {
         excludeFlightsWhereTotalTimeSpentOnGroundExceedsTwoHours();
     }
     public static void separator() {
-        System.out.println();
+        System.out.println("Hello world!");
     }
     public static void printAllFlights() {
         separator();
